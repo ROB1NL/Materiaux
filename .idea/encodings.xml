@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/C15_Théa.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/C15.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/C35.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/C35_eau.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/C35_huile.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/C35_revenu_eau.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/alu.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/inox_Théa.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+  </component>
+</project>
